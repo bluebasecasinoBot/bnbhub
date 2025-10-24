@@ -39,7 +39,7 @@ __SYD.sub_container = () =>{
                 [
                     $(
                         "a",
-                        {href:""},
+                        {href:"https://x.com/bnbXhub"},
                         [
                             $(
                                 "i",
@@ -52,7 +52,7 @@ __SYD.sub_container = () =>{
                     ),
                     $(
                         "a",
-                        {href:""},
+                        {href:"https://t.me/BNBHUB_BCS"},
                         [
                             $(
                                 "i",
@@ -65,7 +65,7 @@ __SYD.sub_container = () =>{
                     ),
                     $(
                         "a",
-                        {href:""},
+                        {href:"#"},
                         [
                             $(
                                 "i",
@@ -87,4 +87,5 @@ __SYD.sub_container = () =>{
 
 __m(__SYD.container() , ()=>{
     manage_mediaQuery(window.innerWidth);
+
 });
